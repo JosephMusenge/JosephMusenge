@@ -6,7 +6,7 @@ I'm a developer and junior at Rust College, majoring in computer science and mat
 - 📸 Stay updated on my journey by following me on [LinkedIn](https://www.linkedin.com/in/joseph-musenge)
 
 
-## 🔭 Current Endeavors
+## Current Endeavors
 
 I'm currently focused on strengthening my skills as a full-stack developer while adding **machine learning** to my toolkit.  
 
@@ -17,7 +17,7 @@ Here’s what I’m diving into right now:
 - 🤖 Learning **machine learning fundamentals** to connect my software engineering skills with applied AI.  
 
 
-## 📫 Contact Me
+## Contact Me
 
 For a quick response, you can DM me on [Instagram](https://www.instagram.com/_josephmusenge) or [LinkedIn](https://www.linkedin.com/in/joseph-musenge).
 
