@@ -1,18 +1,20 @@
 # Hi, I'm Joseph! 👋
 
-I'm a developer and sophomore at Rust College majoring in computer science and mathematics. I'm passionate about using tech to solve real-world problems.
+I'm a developer and junior at Rust College, majoring in computer science and mathematics. I'm passionate about using tech to solve real-world problems.
 
-- 🌐 Check out my [website](https://your-website-url.com) to learn more about me.
-- 📸 Stay updated on my journey by following me on [Instagram](https://www.instagram.com/_josephmusenge) and [LinkedIn](https://www.linkedin.com/in/joseph-musenge)
+- 🌐 Check out my [website](https://jmusenge-portfolio.vercel.app/) to learn more about me.
+- 📸 Stay updated on my journey by following me on [LinkedIn](https://www.linkedin.com/in/joseph-musenge)
 
 
 ## 🔭 Current Endeavors
 
-I'm currently working on becoming a full-stack developer. I'm learning the different technologies to build on my existing knowledge. Here's what I'm currently focused on:
+I'm currently focused on strengthening my skills as a full-stack developer while adding **machine learning** to my toolkit.  
 
-- 🚀 Learning React.js and Node.js as well as building exciting full-stack projects.
-- 🐍 Further exploring Python to enhance my backend development skills.
-- 💻 Learning Data Structures and Algorithms to further develop my problem-solving skills.
+Here’s what I’m diving into right now:
+
+- 🚀 Building full-stack applications with **React.js**, **Typescript**, **Node.js**, and **Express**.  
+- 🐍 Leveraging **Python** for backend development and exploring data science libraries.  
+- 🤖 Learning **machine learning fundamentals** to connect my software engineering skills with applied AI.  
 
 
 ## 📫 Contact Me
