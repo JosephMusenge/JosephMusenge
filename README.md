@@ -16,7 +16,7 @@ I'm exploring and building fullstack apps, developer tools, and infrastructure t
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmusenge&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpmusenge&layout=compact&theme=dark&hide_border=true)
 
 ## Let's Connect
 
